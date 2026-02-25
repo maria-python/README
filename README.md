@@ -17,7 +17,7 @@ Mariia focuses on streamlining processes, improving efficiency, and enabling tea
 
 ####  Contacts:
 
-Gmail: maria.ladesigner@gmail.com
+Gmail: maria.ilnitska11@gmail.com
 
 LinkedIn: www.linkedin.com/in/maria-ilnitska
 
