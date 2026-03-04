@@ -1,6 +1,7 @@
-# Data Analyst | Data into Insights
+# Data Analyst | Maria Ilnitska
+*Data into Insights*
 
-Mariia Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions.
+Maria Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions.
 
 She can help with:
 
