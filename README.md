@@ -1,19 +1,22 @@
-# Tech Assistant with Python Automation
-Mariia Ilnitska is a Technical Assistant seeking opportunities in IT teams to support developers by automating routine tasks. 
+Data Analyst | Data into Insights
+
+Mariia Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions.
 
 She can help with:
 
-Building automation scripts using Python
+Cleaning, analyzing, and interpreting data using Python
 
-Collecting, processing, and storing data using MySQL
+Writing SQL queries to extract and manipulate data
 
-Developing small tools, including Telegram Bots
+Building dashboards and visual reports
 
-Supporting project workflows in Agile environments
+Performing exploratory data analysis (EDA)
 
-and more.
+Automating data workflows
 
-Mariia focuses on streamlining processes, improving efficiency, and enabling teams to focus on development by leveraging Python automation and practical technical solutions.
+Working with structured data using MySQL
+
+Mariia focuses on identifying patterns, uncovering trends, and delivering clear, data-driven insights. She combines analytical thinking with technical skills to help teams make smarter decisions and optimize performance.
 
 ####  Contacts:
 
