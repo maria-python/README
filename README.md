@@ -1,28 +1,20 @@
-# Data Analyst | Maria Ilnitska
+# Maria Ilnitska | Junior Data Analyst
 
-```
-From Data to Insights
-```
+*Maria Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions. Even though She's junior, She can:*
 
-Maria Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions.
+- Cleaning, analyzing, and interpreting data using Python
 
-She can help with:
+- Writing SQL queries to extract and manipulate data
 
-Cleaning, analyzing, and interpreting data using Python
+- Building dashboards and visual reports
+  
+- Automating data workflows
 
-Writing SQL queries to extract and manipulate data
+- Performing exploratory data analysis (EDA)
 
-Building dashboards and visual reports
+- Working with structured data using MySQL
 
-Performing exploratory data analysis (EDA)
-
-Automating data workflows
-
-Working with structured data using MySQL
-
-Mariia focuses on identifying patterns, uncovering trends, and delivering clear, data-driven insights. She combines analytical thinking with technical skills to help teams make smarter decisions and optimize performance.
-
-####  Contacts:
+*Mariia focuses on identifying patterns, uncovering trends, and delivering clear, data-driven insights. She combines analytical thinking with technical skills to help teams make smarter decisions and optimize performance.*
 
 Gmail: maria.ilnitska11@gmail.com
 
