@@ -15,8 +15,7 @@
 - Working with structured data using MySQL
 
 ### Education
-
-I recently completed the Google Data Analytics Certificate and have been self-studying Data Analytics for over a year. I’m eager to apply my skills in real-world projects, learn from experienced teams, and grow as a professional.
+*I recently completed the Google Data Analytics Certificate and have been self-studying Data Analytics for over a year. I’m eager to apply my skills in real-world projects, learn from experienced teams, and grow as a professional.*
 
 ### Skills & Tools
 Python – pandas, numpy, matplotlib, seaborn, etc, automation scripts
@@ -31,7 +30,7 @@ Platforms – GitHub, VS Code, Notion, Google Workspace, Microsoft Office
 Customer Behavior Analysis (2026)
 
 ### Career Goals
-Seeking remote positions outside Ireland or on-site in Dublin; Focused on helping startups or teams leverage data to make smarter business decisions; Passionate about analytics in product, marketing, or e-commerce
+*Seeking remote positions outside Ireland or on-site in Dublin; Focused on helping startups or teams leverage data to make smarter business decisions; Passionate about analytics in product, marketing, or e-commerce*
 
 ### Why Data Analytics?
 *I’m passionate about transforming raw data into actionable insights. Data Analytics lets me combine curiosity, problem-solving, and technical skills to help teams make informed decisions. I enjoy uncovering patterns, spotting trends, and telling clear, visual stories with data.*
