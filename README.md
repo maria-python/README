@@ -1,6 +1,6 @@
 # Maria Ilnitska | Junior Data Analyst
 
-*Maria Ilnitska is a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions. I'm focused on identifying patterns, uncovering trends, and delivering clear, data-driven insights. I combine analytical thinking with technical skills to help teams make smarter decisions and optimize performance. Even though I'm junior, I can:*
+*I'm a Data Analyst passionate about transforming raw data into meaningful insights that support business decisions. I'm focused on identifying patterns, uncovering trends, and delivering clear, data-driven insights. I combine analytical thinking with technical skills to help teams make smarter decisions and optimize performance. Even though I'm junior, I can:*
 
 - Cleaning, analyzing, and interpreting data using Python
 
